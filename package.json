@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/chartpro-com/tech-talk"
   },
-  "homepage": "",
+  "homepage": "https://github.com/chartpro-com/tech-talk",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.0.4",
