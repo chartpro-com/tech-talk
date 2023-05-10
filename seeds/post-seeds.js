@@ -6,6 +6,7 @@ const postdata = [
     post_content: 'https://www.wired.com/story/microsoft-activision-blizzard-deal-blocked/',
     user_id: 1
   },
+  
 
 ];
 
